@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Deletion - Plot Twist!</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        h1 {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        .highlight {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-left: 5px solid #3498db;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Data and Account Deletion Request</h1>
+    
+    <p>At <strong>Plot Twist!</strong>, developed by <strong>Martin Del Gaudio (mgdworks)</strong>, we value your privacy and provide a clear path for you to manage your data. Below are the steps and information regarding the deletion of your account and associated data.</p>
+
+    <h2>Steps to request account deletion</h2>
+    <div class="highlight">
+        <p>To request the deletion of your account, please follow these steps:</p>
+        <ol>
+            <li>Send an email from the account associated with the app to: <a href="mailto:mgdelgaudio@gmail.com">mgdelgaudio@gmail.com</a></li>
+            <li>Use the subject line: <strong>"Account Deletion Request - Plot Twist!"</strong></li>
+            <li>Include your full name and the email address used to log in via Google OAuth.</li>
+        </ol>
+        <p>Our team will process your request and confirm the deletion within <strong>7 business days</strong>.</p>
+    </div>
+
+    <h2>What data will be deleted?</h2>
+    <p>Upon completing the request, the following information will be permanently removed from our active databases:</p>
+    <ul>
+        <li>Your user profile information (Name and Email retrieved via Google).</li>
+        <li>Any personalized settings or preferences saved within the Application.</li>
+        <li>Historical logs of AI-generated content associated with your unique ID.</li>
+    </ul>
+
+    <h2>What data might be retained?</h2>
+    <p>We only retain data that is strictly necessary for legal or security purposes:</p>
+    <ul>
+        <li><strong>Security Logs:</strong> Basic interaction logs are kept for a maximum period of 30 days to prevent fraud and ensure system stability before being automatically purged.</li>
+        <li><strong>Legal Obligations:</strong> If applicable, transaction records or legal notices will be kept for the period required by law.</li>
+    </ul>
+
+    <p>Once the account is deleted, it cannot be recovered. If you wish to use the Application again, you will need to create a new account.</p>
+
+    <br><hr>
+    <footer style="text-align: center; margin-top: 20px;">
+        <p>
+            <a href="index.html">Privacy Policy</a> | 
+            <a href="terms.html">Terms & Conditions</a>
+        </p>
+    </footer>
+
+</body>
+</html>
